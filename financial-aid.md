@@ -11,7 +11,7 @@
 ... | Employment Status                                                       | Full time                |
 ... | How much can you afford to pay?                                         | 10 / per course          |
 ... 
-... ## Why are you applying for Financial Aid? ##
+... ## **Why are you applying for Financial Aid?** ##
 ... (150 words minimum required)
 ... 
 ... Honoured Sir/Madam 
@@ -21,7 +21,7 @@
 ... You have my gratitude for doing this for me. 
 ... Mohamed Asif s
 ... 
-... ## How will taking this course help you achieve your career goals? ##
+... ## **How will taking this course help you achieve your career goals?** ##
 ... (150 words minimum required)
 ... 
 ... With a strong foundation in "science, computers, and problem-solving skills," I am excited to begin learning "Python," as I see it as the first step toward creating good projects that contribute to the advancement of new scientific discoveries, thereby making life easier for everyone and bringing us closer to resolving the world's most pressing issues. Learning new things and developing my skillset are two of my primary professional aspirations. Since "programming" is a field in which one is expected to constantly learn and improve, I believe that enrolling in a course will help me make significant progress in this area.
@@ -31,4 +31,3 @@
 ... | Q                                                                       |                A |
 ... |:------------------------------------------------------------------------|-----------------:|
 ... | Would you consider using a low-interest loan to pay for your courses?   | No               |
-... 
